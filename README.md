@@ -1,2 +1,2 @@
-# Prueba2
-Una simple prueba
+# Algoritmos
+Aqui van los algoritmos
